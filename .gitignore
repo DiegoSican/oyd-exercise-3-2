@@ -1,0 +1,4 @@
+app/function.zip
+**/.terraform/
+*.tfstate
+*.tfstate.backup

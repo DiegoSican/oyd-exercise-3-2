@@ -1,0 +1,7 @@
+{                                                                                                                                                              
+    "FunctionArn": "arn:aws:lambda:us-west-2:504599819545:function:currency-converter-dev",
+    "State": "Active",
+    "Arch": [
+        "arm64"
+    ]
+}
